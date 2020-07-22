@@ -1,7 +1,8 @@
 {
   "name": "redux-react-boilerplate",
   "version": "0.1.0",
-  "private": true,
+  "description": "Starter kit with react-router, redux and redux-saga on create-react-app",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
