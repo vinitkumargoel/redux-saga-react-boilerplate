@@ -1,17 +1,16 @@
 import React from 'react';
 import {connect} from "react-redux";
-import Header from "../../components/Header";
+
+import "./HomePage.scss";
 
 const HomePage = () => {
     return (
-        <div>
-            <Header/>
+        <div className='HomePage'>
         </div>
     );
 };
 
 function mapStateToProps(state) {
-    console.log(state)
     return state
 }
 

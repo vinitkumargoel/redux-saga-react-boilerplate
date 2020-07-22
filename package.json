@@ -1,11 +1,14 @@
 {
   "name": "redux-react-boilerplate",
   "version": "0.1.0",
-  "description": "Starter kit with react-router, redux and redux-saga on create-react-app",
+  "description": "Starter kit with react-router, redux ,redux-saga, SASS on create-react-app",
   "private": false,
   "dependencies": {
     "axios": "^0.19.2",
+    "bootstrap": "^4.5.0",
+    "node-sass": "^4.14.1",
     "react": "^16.13.1",
+    "react-bootstrap": "^1.2.2",
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.2.0",
