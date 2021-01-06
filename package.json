@@ -4,7 +4,7 @@
   "description": "Starter kit with react-router, redux ,redux-saga, SASS on create-react-app",
   "private": false,
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.0",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
